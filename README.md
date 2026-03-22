@@ -68,13 +68,13 @@ ICS is a **Behavioral Risk Scoring Engine** that converts real-world financial b
                     └──────┬──────┘
                            │
         ┌──────────────────▼──────────────────┐
-        │          ML Service (FastAPI)        │
+        │          ML Service (FastAPI)       │
         │ ┌──────────────┐  ┌──────────────┐  │
         │ │  Features    │  │   Model      │  │
         │ │ Engineering  │→ │ Inference    │  │
         │ └──────┬───────┘  └──────┬───────┘  │
         │        │                 │          │
-        │  ┌─────▼─────┐    ┌─────▼─────┐    │
+        │  ┌─────▼─────┐     ┌─────▼─────┐    │
         │  │  Pipeline  │    │ Explain AI│    │
         │  │ Retraining │    │  Reasons  │    │
         │  └────────────┘    └───────────┘    │
