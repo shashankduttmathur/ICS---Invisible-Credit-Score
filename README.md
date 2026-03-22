@@ -276,6 +276,8 @@ MIT License
 
 Built as a production-grade fintech system to bridge the credit inclusion gap using AI.
 
+Shashank Dutt
+
 ---
 
 > ⭐ If this project helped you, star the repo and share it!
