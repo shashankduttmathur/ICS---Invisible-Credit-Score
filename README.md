@@ -274,8 +274,6 @@ MIT License
 
 ## 🧑‍💻 Author
 
-Built as a production-grade fintech system to bridge the credit inclusion gap using AI.
-
 Shashank Dutt
 
 ---
